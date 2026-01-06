@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Park/Park.vcxproj" Id="29a6e8cc-98f5-42df-8783-8937afa6c021" />
+</Solution>
